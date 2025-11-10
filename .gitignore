@@ -1,0 +1,8 @@
+# Ignorar arquivos compilados .class
+*.class
+*.txt
+Node.java
+LinearList.java
+LinearListInterface.java
+Queue.java
+QueueInterface.java
