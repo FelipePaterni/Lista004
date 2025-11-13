@@ -15,18 +15,3 @@ public class Main {
         sc.close();
     }
 }
-
-class Prop {
-    private String name;
-    private String value;
-
-    public Prop(String name, String value) {
-        this.name = name;
-        this.value = value;
-    }
-
-    @Override
-    public String toString() {
-        return name + " = " + value;
-    }
-}
